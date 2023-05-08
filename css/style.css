@@ -713,7 +713,7 @@ h6,
 a.hvr_chnge:hover{color:#ED1B86;}
 .footer p, .footer p > a {color: #fff;}
 .text-pink{color: var(--secondary);}
-
+.bg-black{background: black;}
 
 
 
