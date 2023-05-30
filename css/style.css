@@ -714,10 +714,11 @@ a.hvr_chnge:hover{color:#ED1B86;}
 .footer p, .footer p > a {color: #fff;}
 .text-pink{color: var(--secondary);}
 .bg-black{background: black;}
-
-
-
-
+.about_dept .service-item .service-img, .about_dept .service-item img, .about_dept .service-item .service-title,  .about_dept .service-item .service-text{border-radius: 50%;}
+.about_dept .service-item .service-img img, .about_dept .service-item{border-radius: 50%;}
+.about_dept .service-item{border:6px double rgba(0, 0, 0, 0.2);}
+.about_dept .service-item:hover{border:6px double var(--secondary);transition: all cubic-bezier(0.61, -0.04, 0.37, 1.05) 0.5s;}
+.icon_set img {background: white;box-shadow: 1px 1px 11px #ccc;padding: 10px;border-radius: 50%;width: 80px;margin: 0 0 20px;}
 
 
 
